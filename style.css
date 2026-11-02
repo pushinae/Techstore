@@ -31,7 +31,7 @@ header, footer {
 .navigation {
     display: flex;
     justify-content: flex-start;
-    gap: 30px;
+    gap: 40px;
 }
 
 .navigation li a {
